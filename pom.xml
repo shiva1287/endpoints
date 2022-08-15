@@ -11,7 +11,7 @@
 	
 	<groupId>com.test</groupId>
 	<artifactId>pms-rest</artifactId>
-	<version>1.1</version>
+	<version>1.2</version>
 	<name>pms-rest</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
