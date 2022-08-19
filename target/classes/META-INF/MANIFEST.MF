@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: shiva
+Build-Jdk: 17.0.3
+Implementation-Title: pms-rest
+Implementation-Version: 1.2
+Implementation-Vendor-Id: com.test
+Implementation-URL: https://spring.io/projects/spring-boot/pms-rest
+Created-By: Maven Integration for Eclipse
+
